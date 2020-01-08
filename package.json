@@ -1,0 +1,22 @@
+{
+  "name": "exchangeit",
+  "version": "0.0.1",
+  "description": "this is a social networking utility project",
+  "main": "base.js",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "earn",
+    "money"
+  ],
+  "author": "vaibhav patil",
+  "license": "ISC"
+}
